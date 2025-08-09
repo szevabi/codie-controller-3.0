@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:padding="16dp"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <Button android:id="@+id/btnForward" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Előre"/>
+    <Button android:id="@+id/btnLeft" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Balra"/>
+    <Button android:id="@+id/btnRight" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Jobbra"/>
+    <Button android:id="@+id/btnBack" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Hátra"/>
+    <Button android:id="@+id/btnStop" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="STOP"/>
+</LinearLayout>
